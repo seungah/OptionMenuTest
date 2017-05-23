@@ -4,6 +4,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:id="@+id/linear"
     tools:context="starbloom0128.kr.hs.emirim.optionmenutest.MainActivity">
 
     <TextView
@@ -17,5 +19,6 @@
         android:layout_height="wrap_content"
         android:text="확인 버튼"
         />
+
 
 </LinearLayout>
